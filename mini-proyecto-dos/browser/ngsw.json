@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1717691242710,
+  "timestamp": 1717723646909,
   "index": "/pwaInvestigacion/index.html",
   "assetGroups": [
     {
@@ -31,6 +31,10 @@
       },
       "urls": [
         "/pwaInvestigacion/assets/favicons.ico",
+        "/pwaInvestigacion/assets/icons/apple-touch-icon.png",
+        "/pwaInvestigacion/assets/icons/favicon-16x16.png",
+        "/pwaInvestigacion/assets/icons/favicon-32x32.png",
+        "/pwaInvestigacion/assets/icons/favicon.ico",
         "/pwaInvestigacion/assets/icons/icon-128x128.png",
         "/pwaInvestigacion/assets/icons/icon-144x144.png",
         "/pwaInvestigacion/assets/icons/icon-152x152.png",
@@ -39,6 +43,7 @@
         "/pwaInvestigacion/assets/icons/icon-512x512.png",
         "/pwaInvestigacion/assets/icons/icon-72x72.png",
         "/pwaInvestigacion/assets/icons/icon-96x96.png",
+        "/pwaInvestigacion/assets/icons/mstile-150x150.png",
         "/pwaInvestigacion/assets/img/beagle.png",
         "/pwaInvestigacion/assets/img/bordercollie.png",
         "/pwaInvestigacion/assets/img/britishShorthair.png",
@@ -88,14 +93,19 @@
   "dataGroups": [],
   "hashTable": {
     "/pwaInvestigacion/assets/favicons.ico": "a085f7fbe2ce3a0d138f0639b01e8586565394df",
+    "/pwaInvestigacion/assets/icons/apple-touch-icon.png": "a94870b10518732958e1b561ca6ed8a9b9cd9b4b",
+    "/pwaInvestigacion/assets/icons/favicon-16x16.png": "7dbec332d2a1c1fc35da869891c88c1680689467",
+    "/pwaInvestigacion/assets/icons/favicon-32x32.png": "d9c45c6eec8499b2c1007969cdc9c2cf2e2d8226",
+    "/pwaInvestigacion/assets/icons/favicon.ico": "52f6d05d3d581c85322320d5192e2cfaf43f2ae0",
     "/pwaInvestigacion/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/pwaInvestigacion/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
     "/pwaInvestigacion/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/pwaInvestigacion/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/pwaInvestigacion/assets/icons/icon-192x192.png": "e104d4a04aa7972710ff46cd9492b3cc210f9e79",
     "/pwaInvestigacion/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/pwaInvestigacion/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/pwaInvestigacion/assets/icons/icon-512x512.png": "189daca5c190d30ace178890c60f232799301f41",
     "/pwaInvestigacion/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/pwaInvestigacion/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/pwaInvestigacion/assets/icons/mstile-150x150.png": "7436cbdaa6b248cbe7f2371f9209b997a771051a",
     "/pwaInvestigacion/assets/img/beagle.png": "75d9fc35d67d6780483a12866718716eea74a4fa",
     "/pwaInvestigacion/assets/img/bordercollie.png": "e9661e7863793da167673f4aa2dd5c1d77f2645c",
     "/pwaInvestigacion/assets/img/britishShorthair.png": "5d7db0c17409ce7b86c2ea377cd40acd3f068ad4",
